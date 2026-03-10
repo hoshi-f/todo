@@ -14,7 +14,3 @@ FastAPIを使用して作成したTodo管理APIです。
 - Todo追加
 - Todo更新
 - Todo削除
-
-## 起動方法
-
-### 仮想環境作成
